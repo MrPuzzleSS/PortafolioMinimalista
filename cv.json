@@ -1,0 +1,265 @@
+{
+  "basics": {
+    "name": "Simon Ruiz Garcia",
+    "label": "Programador Junior",
+    "image": "/fotoPerfil.webp",
+    "email": "simon01ruiz@gmail.com",
+    "phone": "(+57) 350 4335065",
+    "url": "https://johndoe.com",
+    "summary": "Programador Junior con experiencia en desarrollo de aplicaciones web. Conocimientos en HTML, CSS, JavaScript, React, Node.js, Express, MongoDB, MySQL, entre otros. Apasionado por la tecnología y la innovación.",
+    "location": {
+      "address": "Calle 17a # 9-39",
+      "postalCode": "CO-055428",
+      "city": "La ceja",
+      "countryCode": "CO",
+      "region": "Antioquia"
+    },
+    "profiles": [
+      {
+        "network": "LinkedIn",
+        "username": "john-doe",
+        "url": "https://www.linkedin.com/in/john-doe/"
+      },
+      {
+        "network": "X",
+        "username": "john",
+        "url": "https://twitter.com/john"
+      },
+      {
+        "network": "GitHub",
+        "username": "john-doe",
+        "url": "https://www.linkedin.com/in/john-doe/"
+      }
+    ]
+  },
+  "work": [
+    {
+      "name": "ESU",
+      "position": "Contratista",
+      "url": "https://esu.com",
+      "startDate": "2021-02-20",
+      "endDate": "2023-12-31",
+      "summary": "Auxiliar Administrativo en el área de subgerencia de servicios de la empresa ESU. Encargado de la gestión de documentos, organización y mantenimiento de archivos y registros, colaboración en la preparación de informes y presentaciones, colaboración en la planificación y seguimiento de proyectos.",
+      "highlights": [
+        "Gestión de documentos",
+        "Organizar y mantener archivos y registros",
+        "Colaborar en la preparación de informes y presentaciones",
+        "Colaborar en la planificación y seguimiento de proyectos"
+      ]
+    },
+    {
+      "name": "AKT Motos",
+      "position": "Aprendiz Mecanico de Motos",
+      "url": "https://aktmotos.com",
+      "startDate": "2020-01-01",
+      "endDate": "2020-08-31",
+      "summary": "Colaborar con mecánicos en la reparación y mantenimiento de motocicletas aprendiendo a diagnosticar y reparar fallas tambien ayudando en la organización y mantenimiento del taller.",
+      "highlights": [
+        "Reparación y mantenimiento de motocicletas",
+        "Colaborar en la organización y mantenimiento del taller"
+      ]
+    }
+  ],
+  "volunteer": [
+    {
+      "organization": "Organization",
+      "position": "Volunteer",
+      "url": "https://organization.com/",
+      "startDate": "2012-01-01",
+      "endDate": "2013-01-01",
+      "summary": "Description…",
+      "highlights": [
+        "Awarded 'Volunteer of the Month'"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "SENA - Servicio Nacional de Aprendizaje",
+      "url": "https://sena.com/",
+      "area": "Analisis y Desarrollo de Software",
+      "studyType": "Tecnología",
+      "startDate": "2023-01-01",
+      "endDate": "null",
+      "courses": [
+        "DB1101 - Basic SQL"
+      ]
+    }
+  ],
+  "awards": [
+    {
+      "title": "Award",
+      "date": "2014-11-01",
+      "awarder": "Company",
+      "summary": "There is no spoon."
+    }
+  ],
+  "certificates": [
+    {
+      "name": "Certificate",
+      "date": "2021-11-07",
+      "issuer": "Company",
+      "url": "https://certificate.com"
+    }
+  ],
+  "publications": [
+    {
+      "name": "Publication",
+      "publisher": "Company",
+      "releaseDate": "2014-10-01",
+      "url": "https://publication.com",
+      "summary": "Description…"
+    }
+  ],
+  "skills": [
+    {
+      "name": "HTML",
+      "level": "Master",
+      "keywords": [
+        "HTML",
+        "CSS",
+        "JavaScript"
+      ]
+    },
+    {
+      "name": "CSS",
+      "level": "Master",
+      "keywords": [
+        "HTML",
+        "CSS",
+        "JavaScript"
+      ]
+    },
+    {
+      "name": "JavaScript",
+      "level": "Master",
+      "keywords": [
+        "HTML",
+        "CSS",
+        "JavaScript"
+      ]
+    },
+    {
+      "name": "React",
+      "level": "Master",
+      "keywords": [
+        "React",
+        "Node.js",
+        "Express",
+        "MongoDB",
+        "MySQL"
+      ]
+    },
+    {
+      "name": "Nodejs",
+      "level": "Master",
+      "keywords": [
+        "React",
+        "Node.js",
+        "Express",
+        "MongoDB",
+        "MySQL"
+      ]
+    },
+    {
+      "name": "Express",
+      "level": "Master",
+      "keywords": [
+        "React",
+        "Node.js",
+        "Express",
+        "MongoDB",
+        "MySQL"
+      ]
+    },
+    {
+      "name": "MongoDB",
+      "level": "Master",
+      "keywords": [
+        "React",
+        "Node.js",
+        "Express",
+        "MongoDB",
+        "MySQL"
+      ]
+    },
+    {
+      "name": "MySQL",
+      "level": "Master",
+      "keywords": [
+        "React",
+        "Node.js",
+        "Express",
+        "MongoDB",
+        "MySQL"
+      ]
+    },
+    {
+      "name":"GitHub",
+      "level":"Master",
+      "keywords":[
+        "GitHub",
+        "Git"
+      ]
+    }
+  ],
+  "languages": [
+    {
+      "language": "Español",
+      "fluency": "Nativo"
+    }
+  ],
+  "interests": [
+    {
+      "name": "Wildlife",
+      "keywords": [
+        "Ferrets",
+        "Unicorns"
+      ]
+    }
+  ],
+  "references": [
+    {
+      "name": "Jane Doe",
+      "reference": "Reference…"
+    }
+  ],
+  "projects": [
+    {
+      "name": "Project",
+      "isActive": true,
+      "description": "Description...",
+      "highlights": [
+        "Won award at AIHacks 2016"
+      ],
+      "url": "https://project.com/"
+    },
+    {
+      "name": "Project",
+      "isActive": false,
+      "description": "Description...",
+      "highlights": [
+        "Finalist at AIHacks 2017"
+      ],
+      "url": "https://project.com/"
+    },
+    {
+      "name": "Project",
+      "isActive": false,
+      "description": "Description...",
+      "highlights": [
+        "Finalist at AIHacks 2018"
+      ],
+      "url": "https://project.com/"
+    },
+    {
+      "name": "Project",
+      "isActive": false,
+      "description": "Description...",
+      "highlights": [
+        "Finalist at AIHacks 2019"
+      ],
+      "url": "https://project.com/"
+    }
+  ]
+}
